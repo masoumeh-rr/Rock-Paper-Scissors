@@ -1,31 +1,38 @@
-#Rock Paper Scissors (سنگ، کاغذ، قیچی)
-بازی کلاسیک سنگ، کاغذ، قیچی که در آن با کامپیوتر رقابت می‌کنید.
+# 🎮 Rock Paper Scissors
 
+A classic Rock Paper Scissors game where you compete against the computer.
 
+---
 
-##درباره بازی
+## 📖 About the Game
 
-بازی سنگ، کاغذ، قیچی که طرف مقابل آن کامپیوتر است و به صورت تصادفی یکی از حالت‌ها را انتخاب می‌کند.
+Rock Paper Scissors game where the opponent is the computer, and it randomly selects one of the three options.
 
-پس از انتخاب شما، گزینه‌های انتخاب‌شده توسط هر دو طرف نمایش داده شده و نتیجه بازی در همان لحظه نمایان می‌شود. امتیاز دو طرف نیز با هر برد اضافه شده و نشان داده می‌شوند.
+After you make your choice, both selections are displayed and the result appears instantly. The score for both sides increases with each win and is shown on the screen.
 
+## 🎯 Buttons
 
+- **Clear**: Clears the selected choices and the game result (scores are kept)
+- **Restart**: Clears everything, resets the scores to zero, and starts a new game
 
-##دکمه‌ها
+---
 
-- **Clear**: برای پاک کردن نتایج انتخابی هر طرف و نتیجه بازی (امتیازها حفظ می‌شوند)
-- **Restart**: برای پاک کردن همه نتایج، صفر کردن امتیازها و شروع دوباره بازی
+## 🔗 Live Demo
 
+[Play the Game](https://masoumeh-rr.github.io/Rock-Paper-Scissors/)
 
+---
 
-##دموی زنده
-
-(https://masoumeh-rr.github.io/Rock-Paper-Scissors/)
-
-
-
-##تکنولوژی‌ها
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Or use Live Server in VS Code
