@@ -19,7 +19,7 @@ After you make your choice, both selections are displayed and the result appears
 
 ## 🔗 Live Demo
 
-[Play the Game](https://masoumeh-rr.github.io/Rock-Paper-Scissors/)
+[Play the Game](https://masoumeh-rr.github.io/Rock-Paper-Scissors/Rock-Paper-Scissors)
 
 ---
 
